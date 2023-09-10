@@ -1,3 +1,4 @@
 https://wokwi.com/projects/374304834941838337 --> Prender y Apagar un Led
 https://wokwi.com/projects/374308418902518785 --> Prender un Led con un Interruptor
 https://wokwi.com/projects/374520162803277825 --> Entradas Analógicas con Potenciómetro
+https://wokwi.com/projects/375514461877207041 --> Escalera de Leds
