@@ -1,4 +1,8 @@
 sensors =  {"living room": 21, "kitchen": 23, "bedroom": 20, "pantry": 22}
+#Para crear diccionarios, se usan llaves "{}" y se escriben los datos del diccionario.
+#Si son alabras deben ser escritas entre comillas y separadas por comas, pero si son números no se escriben entre comillas y se separan por comas.
+#También se le puede asignar algún argumento a cada dato, colocando ":" después del dato y enseguida colocamos el argmuneto de ese dato; también se 
+#separa por comas
 num_cameras = {"backyard": 6,  "garage": 2, "driveway": 1}
 
 print(sensors)
